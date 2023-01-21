@@ -1,7 +1,6 @@
 {
   "name": "react-taskapp-localstorage",
   "private": true,
-  "homepage": "https://ignalog.github.io/react-taskapp-localstorage",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
