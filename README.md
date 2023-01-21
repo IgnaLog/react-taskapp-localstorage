@@ -4,6 +4,8 @@ This task app allows you to create tasks by displaying them in a table. We can a
 
 ![](https://i.ibb.co/rQzVxDH/react-taskapp-localstorage.png)
 
+You can do tests on the web here: [React Task App LocalStorage](https://ignalog.github.io/react-taskapp-localstorage/).
+
 ## 💻 Quick start
 
 To deploy this project, you must first install the node_modules packages. To do this, open a console with the main path of the project and run:
